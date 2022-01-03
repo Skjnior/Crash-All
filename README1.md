@@ -13,7 +13,7 @@
 ### Pour voir le script rassurez vous d'avoir nano ou vim install dans votre terminal sinon faites.
 
 ### installer de l'editeur de text
-pkg install nano
+pkg install nano or 
 pkg install vim
 
 ### Maintenant vous pouvez copier le Crash-All.txt
