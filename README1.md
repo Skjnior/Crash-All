@@ -12,14 +12,14 @@
 
 ### Pour voir le script rassurez vous d'avoir nano ou vim install dans votre terminal sinon faites.
 
-### installer de l'editeur de text
+### installer de l'editeur d text
 pkg install nano or 
 pkg install vim
-### git clone https://github.com/Skjnior/Crash-All
-### ls
-### cd Crash-All
-### ls
-### nano  🤡Crash-All🤡.txt
+### $ git clone https://github.com/Skjnior/Crash-All
+### $ ls
+### $ cd Crash-All
+### $ ls
+### $ nano 🤡Crash-All🤡.txt
 Une fois dans l'éditeur nano faites ctrl + 6 + la flèche d'en bas pour selectionner tout le fichier 
 Maintenat pour copier faites Alt + 6 
 ### Maintenant vous pouvez envoyez la copie  à la victime.
